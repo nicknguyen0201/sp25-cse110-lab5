@@ -1,2 +1,2 @@
-- [Expose Page](https://your-username.github.io/your-repo/expose.html)
-- [Explore Page](https://your-username.github.io/your-repo/explore.html)
+- [Expose Page](https://nicknguyen0201.github.io/sp25-cse110-lab5/expose.html)
+- [Explore Page](https://nicknguyen0201.github.io/sp25-cse110-lab5/explore.html)
